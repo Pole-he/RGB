@@ -5,4 +5,4 @@
 
 类似《大家爱消除》这个游戏 O(∩_∩)O~
 
-
+![image](https://github.com/Pole-he/RGB/blob/master/IMG_0769.PNG)
